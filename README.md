@@ -176,8 +176,7 @@
         />
       </a>
     </p>
-<div style="width: '100%'; display: flex; justify-content: space-evenly; align-items: center">
-      <span align="center">
+<span align="center">
         <img
           align="center"
           src="https://github-readme-stats.vercel.app/api/top-langs?username=heshamm-088&show_icons=true&locale=en&layout=compact"
@@ -191,7 +190,7 @@
           alt="heshamm-088"
         />
       </span>
-    </div>
+  
 <p align="center">
       <img
         align="center"
