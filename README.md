@@ -176,20 +176,20 @@
         />
       </a>
     </p>
-<span align="center">
+<p align="center">
         <img
           align="center"
           src="https://github-readme-stats.vercel.app/api/top-langs?username=heshamm-088&show_icons=true&locale=en&layout=compact"
           alt="heshamm-088"
         />
-      </span>
-<span align="center">
+      </p>
+<p align="center">
         &nbsp;<img
           align="center"
           src="https://github-readme-stats.vercel.app/api?username=heshamm-088&show_icons=true&locale=en"
           alt="heshamm-088"
         />
-      </span>
+      </p>
   
 <p align="center">
       <img
