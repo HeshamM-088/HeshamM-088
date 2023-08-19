@@ -176,7 +176,7 @@
         />
       </a>
     </p>
-<span style="display: flex; justify-content: space-evenly; align-items: center">
+<div style="display: flex; justify-content: space-evenly; align-items: center">
       <span align="center">
         <img
           align="center"
@@ -191,7 +191,7 @@
           alt="heshamm-088"
         />
       </span>
-    </span>
+    </div>
 <p align="center">
       <img
         align="center"
