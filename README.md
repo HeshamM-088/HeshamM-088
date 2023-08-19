@@ -1,6 +1,6 @@
 <h1 align="center">
       Hi 👋, I'm
-      <spanstyle="text-decoration: underline; color: seagreen; font-weight: bold">Hisham Khalil</spanstyle=>
+      <span style="text-decoration: underline; color: seagreen; font-weight: bold">Hisham Khalil</spanstyle=>
     </h1>
     <h3 align="center">A Senior Front-End Instructor from Egypt</h3>
 <p align="center">
