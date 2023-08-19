@@ -176,7 +176,7 @@
         />
       </a>
     </p>
-<div style="display: flex; justify-content: space-evenly; align-items: center">
+<div style="width: '100%'; display: flex; justify-content: space-evenly; align-items: center">
       <span align="center">
         <img
           align="center"
