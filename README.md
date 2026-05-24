@@ -2,7 +2,7 @@
       Hi 👋, I'm
       <p>Hisham Khalil</p>
     </h1>
-    <h3 align="center">lead full stack developer & instructor</h3>
+    <h3 align="center">Lead Full Stack Developer & Instructor</h3>
 <p align="center">
       <img
         src="https://komarev.com/ghpvc/?username=HeshamM-088&label=Profile%20views&color=0e75b6&style=flat"
